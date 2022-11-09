@@ -1,0 +1,37 @@
+<!doctype = html>
+<html>
+<body>
+<h1>My favourite food</h1>
+<ul>
+ <li>Chips</li>
+ <li>jerra rice</li>
+ <li>dosa</li>
+ <li>butter chicken</li>
+ <li>apollo fish</li>
+</ul>
+
+<h1><B>My works to be done today</B></h1>
+<ol>
+ <li>complete assignment</li>
+ <li>get an id card</li>
+ <li>do practise questions</li>
+ <li>submit documents</li>
+ <li>complete installation</li>
+</ol>
+
+<h1><B>My dream place to visit</B></h1>
+<ul>
+  <li>USA</li>
+  <li>Saudi Arabia</li>
+  <li>Maldives</li>
+  <li>Kashmir</li>
+  <li>Dubai</li>
+</ul>  
+<h1><B>My favourite movies</B></h1>
+<ol>
+  <li>Brahmastra</li>
+  <li>RRR</li>
+  <li>Bahubali</li>
+  <li>PK</li>
+  <li>Rebel</li>
+ </ol> 
