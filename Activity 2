@@ -1,0 +1,138 @@
+<!doctype = html>
+<html>
+  <body style="background-color:dodgerblue;">
+    
+    <b><h1><center><u>THE PLANT KINGDOM</h1></b></center></u>
+      
+        
+        <p style="background-color:Tomato;">
+   Plants are predominantly photosynthetic eukaryotes of kingdom PLANTAE.Historically the plant kingdom encompassed all living things that were not not animals 
+   ,and included algae and fungi;however all current definitions of plantae exclude fungi and some algae,as well as the prokaryotes.
+</p>
+    <b><i><u><h2>Plant Kingdom’ Features</h2></b></i></u>
+        <ul>
+          <li><h3>They make their own food hence are called autotrops.</h3></li>
+
+          <li><h3>They are multi-cellular eukaryotes.</h3></li> 
+
+          <li><h3>They are non-motile.</h3></li> 
+
+          <li><h3>Plants contains photosynthetic pigments called chlorophyll present in plastids. </h3></li>
+
+          <li><h3>The plant cell contains outer cell wall and large vacuole.</h3></li>
+
+          <li><h3>They have different organelles for anchorage,support,reproduction and photosynthesis.</h3></li>
+        </ul>
+<img src="https://kidsstudyhub.com/wp-content/uploads/2022/01/seaanimalschart.jpg"  width="500" height="600">
+        
+    <b><i><u><h2>Names of some plants</h2></b></i></u>
+    <ol>
+      <li>Squid</li>
+<li>Aloe</li>
+<li>Cactus</li>
+<li>Spider plant</li>
+<li>Magnolia</li>
+<li>Conifer</li>
+<li>Daffodil</li>
+<li>Rubber plant</li>
+<li>Moss</li>
+<li>Peace lilly</li>
+    </ol>
+    
+    <b><i><u><h2>Amazing facts about the Plant Kingdom </b></i></u></h2> 
+    <dl>
+  <dt>Posidonia australis</dt>
+  <dd>Largest plant in in plant kingdom</dd>
+  <dt>Wolffia</dt>
+  <dd>Smallest plant in plant kingdom</dd>
+  <dt>Gympie-gympie</dt>
+  <dd>The most venomous plant</dd>
+  <dt>Ginkgo Biloba</dt>
+  <dd>The oldest tree species that is alive</dd>
+      
+</dl>
+    
+    <b><h2><p style="color:yellow;">There are about 2.2 million identified species on earth. 
+      Scientists believe that a majority are waiting to be discovered.Approximately 1400 plant species are listed as endangered in the U.S. Endangered Species Act.</p></b></h2>
+
+    
+    <b><h1><U><I>THE COUNT OF ENDANGERED PLANT SPECIES FROM 2002 TO 2012</b></h1></u><i>
+      <center><table border ="5" cellspacing="10" cellpadding="10">
+      <tr>
+        <th rowspan="2">Name of Endagerd plant species</th>
+        <th colspan="3">Years</th>
+        </tr>
+        <tr>
+          <th>2012</th>
+          <th>2002</th>
+        </tr>
+        
+        <tr>
+          <td>cycas beddomei</td>
+          <td allign="center'>292</td>
+           <td allign="center'>126</td>
+                              <td allign="center">292</td>                   
+          </tr>
+        <tr>
+          <td>helianthus paradoxus</td>
+          <td allign="center'>1744</td>
+           <td allign="center'>350</td>
+                       <td allign ="center">1744</td>            
+          </tr>
+       <tr>
+          <td>asimia tetramera</td>
+          <td allign="center'>600</td>
+           <td allign="center'>200</td>
+          <td allign="center">600</td>
+          </tr>
+         <tr>
+          <td>clarkia franciscana</td>
+          <td allign="center'>359</td>
+           <td allign="center'>218</td>
+                              <td allign="center">359</td>
+          </tr>
+         </table></center>
+                              
+        <form>
+                              <center><b><h1>Help Plant Kingdom</center></b></h1>
+                              <b>Form to donate</b>
+                              <hr>
+                              Name:<input type="Name" size="50"><br/><br/>
+                              surname:<input type="surname" size="50"><br/><br/>
+                              gender:<select>
+                              <option>Male</option>
+                              <option>Female</option>
+                              </select><br/><br/>
+                              Phone number:<input type="number" size="50"><br/><br/>
+                              Amount you want donate:<input type="Email" size="50"><br/><br/>
+                              Reason you want to help:<br><br/>
+                              <textarea row="100" col="100">type you reason here</textarea><br/><br/>
+                              
+                              <h1>Plant you like</h1>
+                              
+                              <form action="/action_page.php">
+                              <input type ="checkbox" id "Plant 1" value="cactus">
+                              <label for="plant">I like cactus </label><br>
+                              <input type ="checkbox" id "Plant 2" value="aloe">
+                              <label for="plant">I like aloe</label><br>
+                              <input type ="checkbox" id "Plant 3" value="magnolia">
+                              <label for="plant">I like magnolia</label><br>
+                              <input type="submit" value="submit">
+                              </form>
+                              
+                              </html>
+                              
+  <form action="/action_page.php">
+  <p>Please select your favorite place:</p>
+  <input type="radio" id="plant" name="fav_place" value="plant">
+  <label for="plant">plant</label><br>
+  <input type="radio" id="herbs" name="fav_place" value="herbs">
+  <label for="herbs">herbs</label><br>
+  <input type="radio" id="shrubs" name="fav_place" value="shrubs">
+  <label for="shrubs">shrubs</label><br>
+                            <input type="submit" value="submit">
+                              </form>
+
+                              </body>
+                              </html>
+                                 <h4><B><I><marquee>“We dream in colors borrowed from the sea.”</marquee><B><I></h4>
